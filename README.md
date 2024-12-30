@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk menganalisis dataset yang berisi 5000 lagu Spotify da
 Berikut adalah beberapa contoh visualisasi dari analisis ini:
 
 1. **Matriks Korelasi Antar Fitur Audio**  
-   ![Correlation Matrix](path/to/correlation_matrix.png)
+   ![Correlation Matrix](matrix spotify.png)
 
 2. **Distribusi Mood Lagu**  
    ![Mood Distribution](path/to/mood_distribution.png)
